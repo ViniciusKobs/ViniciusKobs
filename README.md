@@ -1,7 +1,4 @@
-<h3 align="right">Desenvolvedor web</h3>
 ### Welcome 👋
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rehbeinkobs&label=Profile%20views&color=0e75b6&style=flat" alt="rehbeinkobs" /> </p>
 
 <h3 align="left">Minhas redes:</h3>
 <p align="left">
