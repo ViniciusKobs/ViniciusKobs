@@ -1,7 +1,7 @@
 <h3 align="middle">Welcome</h3>
 <hr />
-<h3 align="left">Minhas redes:</h3>
-<div align="left">
+<h3>Minhas redes:</h3>
+<div>
     <a href="https://www.linkedin.com/in/vinicius-kobs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinicius-kobs" height="30" width="40" /></a>
     <a href="https://stackoverflow.com/users/19961227/vinicius-kobs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vinicius-kobs" height="30" width="40" /></a>
     <a href="https://instagram.com/vinicius-kobs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinicius-kobs" height="30" width="40" /></a>
@@ -9,7 +9,7 @@
     <a href="https://www.youtube.com/channel/UCcVATalf1PmviprRtjrC7wQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@viniciuskobs935" height="30" width="40" /></a>
 </div>
 <hr />
-<h3 align="left">Tecnologias e ferramentas:</h3>
+<h3>Tecnologias e ferramentas:</h3>
 <div align="middle">
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
@@ -36,9 +36,11 @@
     <a href="https://www.wxwidgets.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt="wx_widgets" width="40" height="40"/> </a>
 </div>
 <hr />
-<div align="middle"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rehbeinkobs&show_icons=true&locale=en&layout=compact&theme=radical" alt="rehbeinkobs" /></div>
+<div align="middle">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rehbeinkobs&theme=radical" alt="rehbeinkobs" />
+</div>
 
 <div align="middle">&nbsp;
     <img src="https://github-readme-stats.vercel.app/api?username=rehbeinkobs&show_icons=true&locale=en&theme=radical" alt="rehbeinkobs" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rehbeinkobs&theme=radical" alt="rehbeinkobs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rehbeinkobs&show_icons=true&locale=en&layout=compact&theme=radical" alt="rehbeinkobs" />
 </div>
