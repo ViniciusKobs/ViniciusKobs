@@ -38,7 +38,7 @@
 <hr />
 <div align="middle"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rehbeinkobs&show_icons=true&locale=en&layout=compact&theme=radical" alt="rehbeinkobs" /></div>
 
-<div>&nbsp;
-    <img align="middle" src="https://github-readme-stats.vercel.app/api?username=rehbeinkobs&show_icons=true&locale=en&theme=radical" alt="rehbeinkobs" />
-    <img align="middle" src="https://github-readme-streak-stats.herokuapp.com/?user=rehbeinkobs&theme=radical" alt="rehbeinkobs" />
+<div align="middle">&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api?username=rehbeinkobs&show_icons=true&locale=en&theme=radical" alt="rehbeinkobs" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rehbeinkobs&theme=radical" alt="rehbeinkobs" />
 </div>
