@@ -1,4 +1,4 @@
-<h3 align="middle">Welcome</h3>
+<h3 align="middle">Welcome - Bem-vindo</h3>
 <hr />
 <h3>Minhas redes:</h3>
 <div>
