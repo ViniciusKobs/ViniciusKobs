@@ -37,10 +37,10 @@
 </div>
 <hr />
 <div align="middle">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rehbeinkobs&theme=radical&count_private=true" alt="rehbeinkobs" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=viniciuskobs&theme=radical&count_private=true" alt="viniciuskobs" />
 </div>
 
 <div align="middle">&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api?username=rehbeinkobs&show_icons=true&locale=en&theme=radical&count_private=true" alt="rehbeinkobs" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rehbeinkobs&show_icons=true&locale=en&layout=compact&theme=radical" alt="rehbeinkobs" />
+    <img src="https://github-readme-stats.vercel.app/api?username=viniciuskobs&show_icons=true&locale=en&theme=radical&count_private=true" alt="viniciuskobs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciuskobs&show_icons=true&locale=en&layout=compact&theme=radical" alt="viniciuskobs" />
 </div>
