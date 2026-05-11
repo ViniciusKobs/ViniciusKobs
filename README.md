@@ -1,38 +1,35 @@
-<h3 align="middle">Welcome - Bem-vindo</h3>
-<hr />
-<h3>Minhas redes:</h3>
-<div>
-    <a href="https://www.linkedin.com/in/vinicius-kobs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinicius-kobs" height="30" width="40" /></a>
-    <a href="https://stackoverflow.com/users/19961227/vinicius-kobs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vinicius-kobs" height="30" width="40" /></a>
-    <a href="https://instagram.com/vinicius-kobs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinicius-kobs" height="30" width="40" /></a>
-    <a href="https://twitter.com/ViniciusKobs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="viniciuskobs" height="30" width="40" /></a>
-    <a href="https://www.youtube.com/channel/UCcVATalf1PmviprRtjrC7wQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@viniciuskobs935" height="30" width="40" /></a>
-</div>
-<hr />
-<h3>Tecnologias e ferramentas:</h3>
-<div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" alt="docker" width="40" height="40"/>
-    <br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-    <br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-    <br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/>
-</div>
-<hr />
-<div align="middle">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=viniciuskobs&theme=radical&count_private=true" alt="viniciuskobs" />
-</div>
+<h1 align="center">Welcome • Bem-vindo</h1>
 
-<div align="middle">&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api?username=viniciuskobs&show_icons=true&locale=en&theme=radical&count_private=true" alt="viniciuskobs" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciuskobs&show_icons=true&locale=en&layout=compact&theme=radical" alt="viniciuskobs" />
-</div>
+<h3 align="center">Minhas redes</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vinicius-kobs/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  <a href="https://stackoverflow.com/users/19961227/vinicius-kobs">
+    <img src="https://cdn.simpleicons.org/stackoverflow/F58025" height="40" />
+  </a>
+  <a href="https://instagram.com/vinicius-kobs">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+  </a>
+  <a href="https://twitter.com/ViniciusKobs">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCcVATalf1PmviprRtjrC7wQ">
+    <img src="https://cdn.simpleicons.org/youtube/FF0000" height="40" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">Tecnologias e ferramentas</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,docker,ts,js,vue,php,laravel,postgres,mysql,python,c,cpp" />
+</p>
+
+---
+
+| idmensagem | idevento | tipo | metodo | payload | error | alt\_dthr | ins\_dthr |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 9f964237-2226-4dda-819d-f2c581ad4cf8 | 9c6d2a62-401c-409e-8a52-7cb8239307f4 | notification | send | {"mensagem":"oi casada","horario":"2025-08-08 15:17:27"} | null | 2025-08-08 15:17:28 | 2025-08-08 15:17:28 |
